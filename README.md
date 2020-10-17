@@ -1,1 +1,1 @@
-# Front-End Course from gorgeous Kottans
+# Front-End Course from gorgeous [Kottans](https://kottans.org/)
