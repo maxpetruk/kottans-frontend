@@ -4,11 +4,11 @@
 
 ## What I have done so far :rocket:
 
-  1. **General**
+ 1. **General**
     - [x] [Git and Github](#1-git-and-github)
     - [ ] [Linux CLI and Networking](#2-linux-cli-and-networking)
     - [ ] [VCS (hello gitty), GitHub and Collaboration](#3-vcs-hello-gitty-github-and-collaboration)
-
+  
  2. **Front-End Basics**
   
     - [ ] [Intro to HTML & CSS](#4-intro-to-html-css)
@@ -27,3 +27,7 @@
     - [ ] [Website Performance Optimization](#14-website-performance-optimization)
     - [ ] [Friends App - real project!](#15-friends-app-real-project)
 
+[TOC]
+
+- [ ] 
+- [x] 
