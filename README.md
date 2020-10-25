@@ -1,13 +1,13 @@
 # Front-End Course from gorgeous [Kottans](https://kottans.org/)
 
-## The repository is dedicated to taking part in [Kottans frontend course](https://github.com/kottans/frontend)
+### The repository is dedicated to taking part in [Kottans frontend course](https://github.com/kottans/frontend)
 
-## What I have done so far :rocket:
+### What I have done so far :rocket:
 
  1. **General**
     - [x] [Git Basics](#1-git-and-github)
     - [x] [Linux CLI and Networking](#2-linux-cli-and-networking)
-    - [ ] [VCS (hello gitty), GitHub and Collaboration](#3-vcs-hello-gitty-github-and-collaboration)
+    - [x] [VCS (hello gitty), GitHub and Collaboration](#3-vcs-hello-gitty-github-and-collaboration)
   
  2. **Front-End Basics**
   
@@ -60,18 +60,18 @@
 
    #### 1.1 Course [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
 
-    
+
   <details><summary>Screenshots</summary>
-    <p>
+  <p>
     
   ![Screenshot-image-link](./task_linux_cli/2020-10-18_19-35.png)
   ![Screenshot-image-link](./task_linux_cli/2020-10-18_23-43.png)
   ![Screenshot-image-link](./task_linux_cli/2020-10-19_23-10.png)
   ![Screenshot-image-link](./task_linux_cli/2020-10-20_00-10.png)
-    
+
   </p>
   </details>
-  
+
 
 - **What was new:**
 
@@ -151,3 +151,47 @@
 - **General Overview:**
 
   I feel like I need to put it into practice to dive deeply and therefore to get the hang around the topic.
+
+
+
+  ### 2. VCS (hello gitty), GitHub and Collaboration
+
+#### 2.1 Course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+
+  <details><summary>Screenshots</summary>
+  <p>
+    
+  ![Screenshot-image-link](./task_git_collaboration/github-and-collaboration.png)
+
+  </p>
+  </details>
+
+- **What was new:**
+
+  - I knew about "**git log**" command, but now I have learned about its flags (-p, --stat); 
+  - **git shortlog -s -n** = list authors of a git repository including commit count
+
+- **What surprised me:**
+
+  - I find the advice how to write commit messages and when it's better to commit surprisingly reasonable
+
+- **What I intend to use in the future:**
+
+  - pretty much everything mentioned in the course
+
+  
+
+#### 2.2 Course [learngitbranching.js.org](https://learngitbranching.js.org/)
+
+I have already finished the task in [Git and GitHub](https://github.com/nadsatt/kottans-frontend/blob/main/README.md#1-git-and-github) section.
+
+  <details><summary>Screenshots</summary>
+  <p>
+    
+  ![Screenshot-image-link](./task_git_collaboration/learngitbranching_main.png)
+  ![Screenshot-image-link](./task_git_collaboration/learngitbranching_remote.png)
+
+  </p>
+  </details>
+
+### 3. Intro to HTML and CSS
