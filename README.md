@@ -5,9 +5,9 @@
 ### What I have done so far :rocket:
 
  1. **General**
-    - [x] [Git Basics](#1-git-and-github)
-    - [x] [Linux CLI and Networking](#2-linux-cli-and-networking)
-    - [x] [VCS (hello gitty), GitHub and Collaboration](#3-vcs-hello-gitty-github-and-collaboration)
+    - [x] [Git Basics](#0-git-and-github)
+    - [x] [Linux CLI and Networking](#1-linux-cli-and-networking)
+    - [x] [VCS (hello gitty), GitHub and Collaboration](#2-vcs-hello-gitty-github-and-collaboration)
   
  2. **Front-End Basics**
   
