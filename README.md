@@ -1,6 +1,6 @@
 # Front-End Course from gorgeous [Kottans](https://kottans.org/)
 
-### The repository is dedicated to taking part in [Kottans frontend course](https://github.com/kottans/frontend)
+## The repository is dedicated to taking part in [Kottans frontend course](https://github.com/kottans/frontend)
 
 ### What I have done so far :rocket:
 
