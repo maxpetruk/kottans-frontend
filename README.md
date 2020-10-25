@@ -5,7 +5,7 @@
 ### What I have done so far :rocket:
 
  1. **General**
-    - [x] [Git Basics](#0-git-and-github)
+    - [x] [Git Basics](#0-git-basics)
     - [x] [Linux CLI and Networking](#1-linux-cli-and-networking)
     - [x] [VCS (hello gitty), GitHub and Collaboration](#2-vcs-hello-gitty-github-and-collaboration)
   
@@ -30,31 +30,31 @@
 
     ## General
     
-    ### 0. Git Basics
-    ***
-    [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+### 0. Git Basics
+***
+[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
     
-    <details><summary>Screenshot</summary>
-    <p>
+  <details><summary>Screenshot</summary>
+  <p>
+  
+  ![Screenshot-image-link](./task_git_basics/version_control_with_git.png)
+  
+  </p>
+  </details>
     
-    ![Screenshot-image-link](./task_git_basics/version_control_with_git.png)
-    
-    </p>
-    </details>
-    
-    [Learn Git Branching](https://learngitbranching.js.org/)
-    
-    <details><summary>Screenshots</summary>
-    <p>
-    
-    ![Screenshot-image-link](./task_git_basics/learngitbranching_main.png)
-    ![Screenshot-image-link](./task_git_basics/learngitbranching_remote.png)
-    
-    </p>
-    </details>
-    
-    I already took the courses in the past. Still, it was worth refreshing my knowledge of Git and Github.
-    ### 1. Linux CLI and Networking
+  [Learn Git Branching](https://learngitbranching.js.org/)
+  
+  <details><summary>Screenshots</summary>
+  <p>
+  
+  ![Screenshot-image-link](./task_git_basics/learngitbranching_main.png)
+  ![Screenshot-image-link](./task_git_basics/learngitbranching_remote.png)
+  
+  </p>
+  </details>
+  
+  I already took the courses in the past. Still, it was worth refreshing my knowledge of Git and Github.
+### 1. Linux CLI and Networking
 
 ***
 
@@ -153,8 +153,7 @@
   I feel like I need to put it into practice to dive deeply and therefore to get the hang around the topic.
 
 
-
-  ### 2. VCS (hello gitty), GitHub and Collaboration
+### 2. VCS (hello gitty), GitHub and Collaboration
 
 #### 2.1 Course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
