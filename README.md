@@ -29,30 +29,30 @@
 
 
     ## General
-    
+
 ### 0. Git Basics
 ***
 [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
     
   <details><summary>Screenshot</summary>
   <p>
-  
+
   ![Screenshot-image-link](./task_git_basics/version_control_with_git.png)
-  
+
   </p>
   </details>
     
   [Learn Git Branching](https://learngitbranching.js.org/)
-  
+
   <details><summary>Screenshots</summary>
   <p>
-  
+
   ![Screenshot-image-link](./task_git_basics/learngitbranching_main.png)
   ![Screenshot-image-link](./task_git_basics/learngitbranching_remote.png)
-  
+
   </p>
   </details>
-  
+
   I already took the courses in the past. Still, it was worth refreshing my knowledge of Git and Github.
 ### 1. Linux CLI and Networking
 
@@ -63,7 +63,7 @@
 
   <details><summary>Screenshots</summary>
   <p>
-    
+
   ![Screenshot-image-link](./task_linux_cli/2020-10-18_19-35.png)
   ![Screenshot-image-link](./task_linux_cli/2020-10-18_23-43.png)
   ![Screenshot-image-link](./task_linux_cli/2020-10-19_23-10.png)
@@ -159,7 +159,7 @@
 
   <details><summary>Screenshots</summary>
   <p>
-    
+
   ![Screenshot-image-link](./task_git_collaboration/github-and-collaboration.png)
 
   </p>
@@ -186,7 +186,7 @@ I have already finished the task in [Git and GitHub](https://github.com/nadsatt/
 
   <details><summary>Screenshots</summary>
   <p>
-    
+
   ![Screenshot-image-link](./task_git_collaboration/learngitbranching_main.png)
   ![Screenshot-image-link](./task_git_collaboration/learngitbranching_remote.png)
 
@@ -194,3 +194,105 @@ I have already finished the task in [Git and GitHub](https://github.com/nadsatt/
   </details>
 
 ### 3. Intro to HTML and CSS
+
+  <details><summary>Animated Screenshot</summary>
+  <p>
+
+  ![Screenshot-image-link](./task_html_css_intro/HTML_and_CSS.gif)
+
+  </p>
+  </details>
+
+- **What was new:**
+
+  - `<video>`  and`<audio>` tags and their attribute **control**
+  - `scope` attribute, which can take one of two values: `row` (for rows) and `col` (for columns)
+  - `<td colspan>`  attribute
+  - HTML `<td rowspan>` attribute
+  - the `<tbody>` tag is used to group the body content in an HTML table
+  - The `<thead>` tag is used to group header content in an HTML table.
+  - The `<tfoot>` tag is used to group footer content in an HTML table.
+  - The `<datalist>` tag specifies a list of pre-defined options for an `<input>` element.
+  - `<input required>` The **required** attribute is a boolean attribute. When present, it specifies that an input field must be filled out before submitting the form.
+  - The **max** and **min** attributes specify the maximum and the minimum values for an `<input>` element.
+  - The **`minlength`** **`maxlength`** attribute define the minimum the maximum number of characters (as UTF-16 code units) the user can enter into `<input>` or `<textarea>`
+  - The **`pattern`** attribute specifies a [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) the form control's value should match.
+  - The `<figure>` tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+  - The `<figcaption>` [tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption) defines a caption for a  `<aside>`  element.
+  - The **HTML `<aside>` element** represents a portion of a document whose content is only indirectly related to the document's main content. Asides are frequently presented as sidebars or call-out boxes.
+  
+- **What surprised me:**
+
+  - I was surprised to learn that I could use regular expressions in HTML code
+
+- **What I intend to use in the future:**
+
+  - pretty much everything mentioned in the courses
+  
+- **General Overview:**
+
+  I refreshed my knowledge of tables. Generally, the courses are designed for total newbies, and therefore, it was easy for me to pass the course. 
+
+#### 3.3 [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+
+- **What was new:**
+
+  - `<video>`  
+
+  - *HSL* - hue-saturation-lightness color scheme
+
+  - `hsla` property - changes the *opacity*, or the amount of transparency, of some colors so that some or all of the bottom elements are visible through a covering element.
+
+  - `word-spacing` - increase the spacing between words in a body of text
+
+  - `letter-spacing`- adjusts the spacing between letters  (*tracking*).
+
+  - `@font-face` - is a to import fonts directly into stylesheets
+
+  - `grid-template`can replace `grid-template-rows` and `grid-template-columns` (NOPE)
+
+  - `grid-template-columns: repeat(3, 100px)`is equal to `grid-template-columns: 100px 100px 100px;`
+
+  - The **`minmax()`** [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) [function](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Functionals) defines a size range greater than or equal to min and less than or equal to max. It is used with [CSS Grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout).
+
+  - The **`gap`** [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) property sets the gaps ([gutters](https://developer.mozilla.org/en-US/docs/Glossary/gutters)) between rows and columns. It is a [shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties) for [`row-gap`](https://developer.mozilla.org/en-US/docs/Web/CSS/row-gap) and [`column-gap`](https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap).
+
+  - `grid-row` is used as shorthand for `grid-row-start` and `grid-row-end`
+
+  - `grid-column: 4 / span 2;` using `span` keyword
+
+  - `grid-area: 9row / 1column / 13row / 7column` 
+
+  - `grid-auto-rows` and `grid-auto-columns` properties
+
+  - `grid-auto-flow: dense` property
+
+  - `transition-property: background-color;` and `transition-duration: 2s;`
+
+  - `transition-delay: 250ms;`
+
+  - `transition-timing-function: ease-out;`
+
+  - transition-property: color; 
+
+    transition-duration: 1.5s; 
+
+    transition-timing-function: linear; 
+
+    transition-delay: 0.5s;      corresponds to `transition: color 1.5s linear 0.5s;`
+
+  - combinations of transitions by adding commas;
+
+  - using `all` to affect all properties;
+
+- **What surprised me:**
+
+  - nothing much. 
+
+- **What I intend to use in the future:**
+
+  - pretty much everything mentioned in the course
+
+- **General Overview:**
+
+  I refreshed my knowledge of `grid` and transitions. The course represents basic CSS skills so it was easy to pass it.
