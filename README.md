@@ -249,7 +249,7 @@ I have already finished the task in [Git and GitHub](https://github.com/nadsatt/
 
   - `@font-face` - is a to import fonts directly into stylesheets
 
-  - `grid-template`can replace `grid-template-rows` and `grid-template-columns` (NOPE)
+  - `grid-template`can replace `grid-template-rows` and `grid-template-columns`
 
   - `grid-template-columns: repeat(3, 100px)`is equal to `grid-template-columns: 100px 100px 100px;`
 
