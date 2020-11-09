@@ -12,7 +12,7 @@
  2. **Front-End Basics**
 
     - [x] [Intro to HTML & CSS](#3-intro-to-html-and-css)
-    - [ ] [Responsive Web Design](#5-responsive-web-design)
+    - [x] [Responsive Web Design](#5-responsive-web-design)
     - [ ] [HTML & CSS Practice](#6-html-css-practice)
     - [ ] [JavaScript Basics](#7-javascript-basics)
     - [ ] [Document Object Model - practice](#8-document-object-model-practice)
@@ -296,3 +296,31 @@ I have already finished the task in [Git and GitHub](https://github.com/nadsatt/
 - **General Overview:**
 
   I refreshed my knowledge of `grid` and transitions. The course represents basic CSS skills so it was easy to pass it.
+
+### 3. Responsive Web Design
+
+  <details><summary>Animated Screenshot</summary>
+  <p>
+
+
+  ![Screenshot-image-link](./task_responsive_web_design/responsive_web_design_animation.gif)
+
+  </p>
+  </details>
+
+- **What was new:**
+
+  - Nothing much, cause a while ago I passed the courses
+
+- **What surprised me:**
+
+  -  such a definition as "tappable" element. I like the term :)
+
+- **What I intend to use in the future:**
+
+  - pretty much everything mentioned in the courses
+
+- **General Overview:**
+
+  Although I passed the courses in the past, it still was worth taking the courses again
+
