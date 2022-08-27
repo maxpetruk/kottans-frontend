@@ -7,7 +7,7 @@
  1. **General**
     - [x] [Git Basics](#0-git-basics)
     - [x] [Linux CLI and Networking](#1-linux-cli-and-networking)
-    - [ ] [VCS (hello gitty), GitHub and Collaboration](#2-vcs-hello-gitty-github-and-collaboration)
+    - [x] [VCS (hello gitty), GitHub and Collaboration](#2-vcs-hello-gitty-github-and-collaboration)
   
  2. **Front-End Basics**
 
@@ -159,3 +159,39 @@
 - **General Overview:**
 
   I feel like I need to put it into practice and deep dive into it to fully grasp it.
+
+  ### 2. VCS (hello gitty), GitHub and Collaboration
+
+#### 2.1 Course [GitHub & Collaboration](https://www.coursera.org/learn/introduction-git-github/home/info)
+
+  <details><summary>Screenshots</summary>
+  <p>
+
+  ![Screenshot-image-link](./task_git_collaboration/week3.png)
+  ![Screenshot-image-link](./task_git_collaboration/week4.png)
+
+  </p>
+  </details>
+
+- **What was new:**
+
+  - I feel like I need to put it into practice and deep dive into it to fully grasp it.
+
+- **What I intend to use in the future:**
+
+  - pretty much everything mentioned in the course
+
+  
+
+#### 2.2 Course [learngitbranching.js.org](https://learngitbranching.js.org/)
+
+I have already finished the task before. Still, it was worth refreshing my knowledge
+
+  <details><summary>Screenshots</summary>
+  <p>
+
+  ![Screenshot-image-link](./task_git_collaboration/learngitbranching_main.png)
+  ![Screenshot-image-link](./task_git_collaboration/learngitbranching_remote.png)
+
+  </p>
+  </details>
